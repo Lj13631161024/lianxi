@@ -1,7 +1,8 @@
 <?php
 /**
  *  index.php PHPCMS 入口
- *
+ *4135546456
+ *3
  * @copyright			(C) 2005-2010 PHPCMS
  * @license				http://www.phpcms.cn/license/
  * @lastmodify			2010-6-1
